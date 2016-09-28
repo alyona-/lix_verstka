@@ -1,0 +1,22 @@
+@import "header.css";
+@import "footer.css";
+@import "left.css";
+@import "forms_style_2.css";
+@import "main_blocks.css";
+
+
+.content {
+    flex-wrap: wrap;
+    align-items:stretch;
+    margin: 30px;
+    margin-left: 50px;
+}
+.page:before {
+    position: absolute;
+    content: "";
+    top:450px !important;
+    bottom: 0;
+    left:0;
+    right:0;
+    background: #feed00;
+}

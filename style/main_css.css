@@ -1,0 +1,12 @@
+@import "header.css";
+@import "left.css";
+@import "content.css";
+@import "footer.css";
+@import "main_contain.css";
+@import "contacts.css";
+@import "main_blocks.css";
+
+.content {
+  /*  align-items:stretch; */
+}
+
